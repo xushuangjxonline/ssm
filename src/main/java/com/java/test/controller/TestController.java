@@ -28,6 +28,8 @@ public class TestController {
     System.out.print("hot-fix test");
 
     System.out.print("push test");
+    //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    System.out.print("pull test");
 
     @Autowired
     TestService testService;
