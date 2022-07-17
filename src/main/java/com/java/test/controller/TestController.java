@@ -21,7 +21,9 @@ import java.util.Map;
 @RequestMapping("/test")
 public class TestController {
 
-    system.out.print("hello");
+    System.out.print("hello");
+    System.out.print("hello123");
+
 
     @Autowired
     TestService testService;
