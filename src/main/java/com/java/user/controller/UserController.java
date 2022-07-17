@@ -6,7 +6,6 @@ import com.alibaba.fastjson.JSONObject;
 import com.java.common.base.bean.Message;
 import com.java.user.entity.UserModel;
 import com.java.user.service.UserService;
-
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;
