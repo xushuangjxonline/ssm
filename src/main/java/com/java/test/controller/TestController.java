@@ -24,6 +24,7 @@ public class TestController {
     System.out.print("hello");
     System.out.print("hello123");
     System.out.print("hello123pppppppppppp");
+    System.out.print("master-test");
 
 
     @Autowired
